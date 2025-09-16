@@ -1,6 +1,6 @@
 print("Hello"[0]) #subscripting
 print(len("Hello")) #length of the string
-print("123" + "456") #concatenation 
+print("123" + "456") #concatenation  
 print(12345678)  #large integer
 print("Hello"[1:4]) #slicing
 print("Hello" * 3) #repetition    
