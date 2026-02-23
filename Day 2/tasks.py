@@ -16,3 +16,7 @@ print(round(3.7698989, 2))  #rounding a number
 print(f"Hello, {9}")  #formatted string literal (f-string)
 a = int("5") / int(2.7)
 print(type(a))  #type of the variable a
+if condition:
+    print("Condition is true")
+else:
+    print("Condition is false") #if-else statement
